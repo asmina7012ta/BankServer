@@ -1,0 +1,12 @@
+server creation
+--------------
+
+
+npm init
+install express  ----> npm i express
+
+steps
+------
+1.import express
+2.create App using express
+3.setting port to run the app(3000)
